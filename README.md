@@ -13,7 +13,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Commit Stats
 
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=IteratingSystem)](https://github.com/anuraghazra/github-readme-stats)
+[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=IteratingSystem)](https://github.com/IteratingSystem/github-readme-stats)
  
 
 原文链接：https://blog.csdn.net/weixin_44649780/article/details/128277355
