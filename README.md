@@ -4,13 +4,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Some Links
 
-[![](https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white)](https://anoyi.com/)
-[![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AnoyiX/)
-[![](https://img.shields.io/badge/DouYin-000000.svg?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAFS6CPjIHAim7TdTQjzevZX7LwfKCIi37PTVmqCpzdU0)
-[![](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCL-w1IbRfznZauYz6JIZOBw)
-[![](https://img.shields.io/badge/Bilibili-black?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/182381763)
-[![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/)
-[![](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AnoyiX)
+[![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/IteratingSystem/)
 
 ###   Devices
 
@@ -21,7 +15,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,vscode,idea,vim,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,vue,spring,nextjs,maven,redis,mysql,fastapi,linux,docker,nginx,eclipse)
+![](https://skillicons.dev/icons?perline=15&i=github,git,vscode,idea,vim,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,vue,spring,nextjs,maven,redis,mysql,fastapi,linux,docker,nginx,eclipse)
 
 ###   Activity Graph
 
