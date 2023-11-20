@@ -1,6 +1,6 @@
 ###   Hi! Good to see you on my Github page!
 
-I publish open source software here. All the repositories are at your disposal.
+Let code create a better life for us.
 
 ###   Some Links
 
