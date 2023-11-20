@@ -13,4 +13,4 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Commit Stats
 
-|![](https://github-readme-stats.vercel.app/api?username=IteratingSystem)|![IteratingSystem's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IteratingSystem&layout=compact&hide_border=true&langs_count=10)|
+![](https://github-readme-stats.vercel.app/api?username=IteratingSystem)![IteratingSystem's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IteratingSystem&layout=compact&hide_border=true&langs_count=10)
