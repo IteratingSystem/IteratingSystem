@@ -20,7 +20,3 @@ I publish open source software here. All the repositories are at your disposal.
 ###   Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IteratingSystem&layout=compact&theme=dark)
-
-###   Donate
-  Bitcoin: `KRgXmYvzxkNgd5Kt9iEoRe4szXW8Ag4yc`
-  Ethereum: `0x80DF1CaB786398503f991AAF3B48Be06044CF42F`
