@@ -9,4 +9,4 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,git,vscode,idea,vim,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,vue,spring,nextjs,maven,redis,mysql,fastapi,linux,docker,nginx,eclipse)
+![](https://skillicons.dev/icons?perline=15&i=github,git,vscode,idea,eclipse,vim,java,js,ts,html,css,bootstrap,jquery,nodejs,vue,spring,nextjs,maven,redis,mysql,fastapi,linux,docker,nginx)
